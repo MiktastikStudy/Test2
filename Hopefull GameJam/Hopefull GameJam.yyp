@@ -36,12 +36,17 @@
   },
   "name":"Hopefull GameJam",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"MainLevel","path":"rooms/MainLevel/MainLevel.yy",},},
+    {"id":{"name":"Back_trees_01","path":"sprites/Back_trees_01/Back_trees_01.yy",},},
+    {"id":{"name":"Back_trees_02","path":"sprites/Back_trees_02/Back_trees_02.yy",},},
+    {"id":{"name":"cloud_big","path":"sprites/cloud_big/cloud_big.yy",},},
+    {"id":{"name":"cloud_small","path":"sprites/cloud_small/cloud_small.yy",},},
+    {"id":{"name":"Sky","path":"sprites/Sky/Sky.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"MainLevel","path":"rooms/MainLevel/MainLevel.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
